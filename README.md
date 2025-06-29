@@ -79,5 +79,5 @@ Vaswani et al., "Attention Is All You Need"
 
 PyTorch nn.Transformer documentation
 👤 Author
-Bibhav Kumar and Riya Chettri
+Bibhav Kumar and Riya Chhetri
 🌐 GitHub
