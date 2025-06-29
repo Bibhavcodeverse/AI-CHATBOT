@@ -66,13 +66,13 @@ Tokens are converted to IDs using a vocabulary
 
 Special tokens:
 
--- <pad>
+-- pad
 
--- <sos>
+-- sos
 
--- <eos>
+-- eos
 
--- <unk>
+-- unk
 
 References
 Vaswani et al., "Attention Is All You Need"
